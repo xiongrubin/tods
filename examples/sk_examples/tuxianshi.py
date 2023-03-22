@@ -1,4 +1,4 @@
-from examples.sk_examples import banpei
+import banpei
 import numpy as np
 import pandas as pd
 from bokeh.io import curdoc
